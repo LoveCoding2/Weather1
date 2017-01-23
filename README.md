@@ -1,0 +1,1 @@
+一款天气app，主要有以下几大功能：查看一周天气，每隔3小时更新一次天气，可以查看当前位置，天气信息以通知的形式发送，实现语音播报。使用到的：百度地图API、讯飞语音API、Notification、PreferenceActivity，SharedPreferences,Viewpager+Imageview构建引导层等安卓常用开发知识。
