@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\now.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\now.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view1.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\view1.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\guide.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view3.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\view3.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mycategory.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\mycategory.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\city.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view2.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\view2.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weather.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\weather.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_layout.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\footer_layout.xml"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all.xml",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\layout\\all.xml"
+    }
+]

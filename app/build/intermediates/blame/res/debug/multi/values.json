@@ -1,0 +1,486 @@
+[
+    {
+        "outputFile": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 46,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 45,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 46,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 50,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 43,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 43,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 44,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 44,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 41,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 41,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 38,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 38,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 43,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 43,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 42,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 42,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 44,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 44,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 57,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 55,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 52,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 47,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 47,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 52,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 53,
+                    "endOffset": 865
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 53,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 870,
+                    "endColumn": 41,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 41,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 45,
+                    "endOffset": 953
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 45,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 958,
+                    "endColumn": 47,
+                    "endOffset": 1001
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 47,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1006,
+                    "endColumn": 42,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 42,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 49,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 49,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 44,
+                    "endOffset": 1139
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 5,
+                        "startOffset": 215,
+                        "endColumn": 45,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1144,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1590
+                },
+                "from": {
+                    "file": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]

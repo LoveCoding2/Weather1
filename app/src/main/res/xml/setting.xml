@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+    >
+    
+         <PreferenceCategory
+        android:title="我的设置"
+        android:key="preferset">
+        
+        <SwitchPreference 
+        android:summary="通知栏设置"
+        android:key="notification"
+        android:selectable="false"/>
+    <SwitchPreference 
+        android:summary="震动"
+        android:key="vibrate"
+        android:selectable="false"
+        
+        
+        />
+    <SwitchPreference
+        android:summary="音量"
+        android:key="voice"
+        android:selectable="false" 
+        android:switchTextOn="调大"
+        android:switchTextOff="调小"
+        />
+    
+  
+    
+    <Preference 
+        android:key="about"
+        android:title="关于"/>
+    
+
+        
+    </PreferenceCategory>
+
+        
+   
+    
+    
+
+</PreferenceScreen>

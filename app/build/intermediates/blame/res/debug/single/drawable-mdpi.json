@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_search.png",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\forward.png",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\drawable-mdpi\\forward.png"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\untouched.png",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\drawable-mdpi\\untouched.png"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\touched.png",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\drawable-mdpi\\touched.png"
+    },
+    {
+        "merged": "D:\\open project\\SeeWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_search_clear.png",
+        "source": "D:\\open project\\SeeWeather\\app\\src\\main\\res\\drawable-mdpi\\ic_search_clear.png"
+    }
+]
